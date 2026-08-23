@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.5*%
+%TF.CreationDate,2026-08-23T10:36:05+01:00*%
+%TF.ProjectId,STEREO_AMP_MODULE_V1,53544552-454f-45f4-914d-505f4d4f4455,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.5) date 2026-08-23 10:36:05*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X100632500Y-68150000D02*
+X165860000Y-68150000D01*
+X165860000Y-113370000D01*
+X100632500Y-113370000D01*
+X100632500Y-68150000D01*
+M02*
