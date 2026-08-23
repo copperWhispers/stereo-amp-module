@@ -29,7 +29,7 @@ An interactive BOM is included at [`docs/ibom.html`](docs/ibom.html) — open it
 
 ## Build it
 
-**[One-click BOM cart](BOM_CART_LINK)** — fills your basket in one go.
+BOM: Open docs/ibom.html in a browser.
 
 **Boards:** order `production/gerbers.zip` from JLCPCB or PCBWay. 2-layer, 1.6 mm, HASL is fine. No controlled impedance needed.
 
