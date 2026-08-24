@@ -66,7 +66,7 @@ This board ended up at **26 dB** (20 kΩ to GND, 100 kΩ to GVDD). The maths in 
 
 ## Video
 
-https://youtube.com/@Kylian_Delaplassette
+https://youtu.be/IWhPQ7ZQIiU
 
 ## Licence
 
