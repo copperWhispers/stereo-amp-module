@@ -16,7 +16,7 @@ Built to answer a specific question: what does it actually take to drive a pair 
 | **Amplifier** | TPA3116D2DADR — class-D, stereo, BTL |
 | **Configuration** | Master mode, 26 dB gain, differential inputs |
 | **Input impedance** | 30 kΩ |
-| **Supply** | 4.5–26 V (built and tested at 12 V) |
+| **Supply** | 4.5–20 V (built and tested at 12 V) Could go to 26V with different caps.|
 | **Output** | ~18 W into 4 Ω, limited by the 12 V rail |
 | **Idle current** | ~50 mA at 12 V |
 | **Assembly** | Hand-solderable — 0603 passives, HTSSOP-32|
@@ -34,10 +34,14 @@ BOM: Open docs/ibom.html in a browser.
 
 **Schematic:** [`docs/schematic.pdf`](docs/schematic.pdf) · **Board:** [`docs/pcb.pdf`](docs/pcb.pdf)
 
-YOU WILL ALSO NEED TO INCLUDE CABLE CONNECTIONS BETWEEN THE FOLLOWING PADS:
+## Errata — v1 needs two wire links
+
+The board as fabbed requires two manual connections:
+
+**Wire link between these pads:**
 <img width="604" height="546" alt="image" src="https://github.com/user-attachments/assets/21bb1652-2472-457f-aa00-73e5f42c8a68" />
 
-AND THIS ONE YOU CAN BRIDGE WITH A BIT OF SOLDER BETWEEN THE LEGS:
+**Solder bridge across these legs:**
 <img width="406" height="182" alt="image" src="https://github.com/user-attachments/assets/232b2e7b-0955-4ed9-b916-7c04dbd50d00" />
 
 
