@@ -78,4 +78,4 @@ Build it, modify it, sell it. If you distribute a modified design, that design h
 
 Built one? Open an issue with a photo — I'd like to see it.
 
-New board every month: [copperWhispers](LANDING_PAGE_URL)
+New board every month: [copperWhispers](https://copperwhispers.com)
