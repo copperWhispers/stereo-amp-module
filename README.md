@@ -83,11 +83,6 @@ the speakers are never at risk. On a 12 V rail the maximum output is about 18 W 
 
 [https://youtu.be/IWhPQ7ZQIiU](https://youtu.be/IWhPQ7ZQliU?si=qsnklUcxvsyva8gy)
 
-## Licence
-
-**CERN-OHL-S v2** for hardware, **CC BY-SA 4.0** for documentation — see `LICENSE`.
-
-Build it, modify it, sell it. If you distribute a modified design, that design has to be open too.
 
 ---
 
